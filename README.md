@@ -1,6 +1,6 @@
 # FlUId: VR UI Design
 FlUId is a VR application created as part of my bachelor thesis to demonstrate good and bad user interface (UI) design practices in virtual reality. 
-The project is based on design guidelines and best practices and aims to provide an interactive, immersive way to experience the impact of UI design.
+The project is based on design [Guidelines and Best Practices](../../wiki) and aims to provide an interactive, immersive way to experience the impact of UI design.
 
 ## Motivation
 Designing effective user interfaces for VR is challenging due to the unique characteristics and opportunities of immersive environments. 
@@ -10,7 +10,7 @@ FlUId was designed to provide a clear, side-by-side comparison of well-designed 
 ## Features
 - Side-by-side comparison of good and bad UI implementations. Users can switch between the good and bad UI panels. Each panel demonstrates different approaches to layout, feedback, and interaction.
 - A tutoral panel showcasing the good design principles, applied in the good UI design.
-  
+    
 Watch the demo video:
 
 <a href="https://youtu.be/z3uKXxJZkY8">
@@ -25,7 +25,7 @@ This project was developed using **Unity 2022.3.6f1** and is designed for the **
 ### Steps to Run:
 
 1. **Clone or Download the Project**
-   - Clone the project with  `https://github.com/Esin-M/FlUId.git` or download it as a ZIP file.
+   - Clone the project with  `https://github.com/TUM-HN/VR-UI-Guidelines.git` or download it as a ZIP file.
    - Open the folder containing the Unity project in Unity Hub.
 
 3. **Open the Scene**
