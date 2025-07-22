@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9F4C1002-1AC4-FB60-8986-431667380830}</ProjectGuid>
+    <ProjectGuid>{0A061C87-E48A-E7EB-8F21-5C52E313E817}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Oculus.Haptics.Samples</AssemblyName>
