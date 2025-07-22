@@ -20,7 +20,7 @@ Watch the demo video:
 
 ## How to Run the Project in Unity
 
-This project was developed using **Unity 2022.3.6f1** and is designed for the **Meta Quest 3s** headset with **Meta Quest Touch Plus controllers**.
+This project was developed using **Unity 2022.3.62f1** and is designed for the **Meta Quest 3S** headset with **Meta Quest Touch Plus controllers**.
 
 ### Steps to Run:
 
@@ -38,15 +38,16 @@ This project was developed using **Unity 2022.3.6f1** and is designed for the **
    - Select **Android** and click the **Switch Platform** button.
 
 5. **Connect Your Headset**
-   - Connect your **Meta Quest 3s** via USB cable.
+   - Connect your **Meta Quest 3S** via USB cable.
    - Ensure the headset is **powered on** and **Developer Mode** is enabled.
 
 6. **Detect the Headset**
    - In Build Settings, find the **Run Device** dropdown.
-   - Click **Reset** - your headset should now appear in the list.
+   - Click **Refresh** - your headset should now appear in the list.
 
 7. **Build and Run**
    - Click the **Build and Run** button.
    - When prompted, select the `FlUID.apk` location.
    - Unity will build the app and automatically deploy it to your headset.
+   - Press the flat Meta button on your right controller to center the menu in your view and you're ready to get started.
 
