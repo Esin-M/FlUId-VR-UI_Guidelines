@@ -13,7 +13,7 @@ FlUId was designed to provide a clear, side-by-side comparison of well-designed 
     
 Watch the demo video:
 
-<a href="https://youtu.be/z3uKXxJZkY8">
+<a href="https://youtu.be/NsY8NIObuMo">
   <img src="thumbnail.jpg" alt="Watch the demo" width="400"/>
 </a>
 
@@ -50,4 +50,3 @@ This project was developed using **Unity 2022.3.62f1** and is designed for the *
    - When prompted, select the `FlUID.apk` location.
    - Unity will build the app and automatically deploy it to your headset.
    - Press the flat Meta button on your right controller to center the menu in your view and you're ready to get started.
-
